@@ -33,5 +33,6 @@ LinkedIn: https://www.linkedin.com/in/maaz-amir-666761252
 Email: maazamir232@gmail.com
 
 ## Project Pictures
-<img width="960" height="420" alt="image" src="https://github.com/user-attachments/assets/9f0b4dc6-71eb-4396-9f72-9f20c321ac14" />
+<img width="957" height="416" alt="image" src="https://github.com/user-attachments/assets/14d9531e-9d49-4b5a-8771-9e412c1885b7" />
+
 
